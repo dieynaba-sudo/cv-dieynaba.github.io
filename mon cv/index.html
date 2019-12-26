@@ -1,0 +1,268 @@
+<head>
+    <title>CV de Dieynaba ly</title>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Dieynaba LY</h1>
+        <h3>Recherche de Stage en Développement Web/Mobile</h3>
+    </header>
+    
+    <section>
+        <div class="photo">
+            <img src="profi.jpg" alt="photo CV de Dieynaba"> 
+        </div>
+        <div class="prez">
+            <h2>Qui suis-je ?</h2>
+            <p> Je suis une étudiante investie,curieuse et dynamique.
+                 Je souhaite intégrer une entreprise en stage afin 
+                d'appliquer mes connaissances et acquérirer de nouvelles compétences.
+                je cherche à faire partie d'une équipe avec des manières innovantes
+                de vivre l'entreprise.
+            </p>
+            <a href="index.pdf" download>Télécharger mon CV</a>
+        </div>
+        <div class="contact">
+            <h2>Informations Personnelles</h2>
+            <div class="contact-flex">
+                <p>Nom : </p>
+                <p>Dieynaba Ly</p>
+            </div>
+            <div class="contact-flex">
+                <p>Adresse : </p>
+                <p>04 rue Jacquart - 93500 Pantin</p>
+            </div>
+            <div class="contact-flex">
+                <p>Téléphone :</p>
+                <p>06 09 18 67 19</p>
+            </div>
+            <div class="contact-flex">
+                <p>Mail : </p>
+                <p><a href="mailto:dieynbaly94@gmail.com">dieynbaly94@gmail.com</a></p>
+            </div>
+           
+            <div class="social">
+                
+                <a href="https://twitter.com/LDieynaba?s=03"><img src="téléchargement.png" alt="Logo Tw"></a>
+                <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="téléchargement.jfif" alt="Logo Lk"></a>
+                
+            </div>
+        </div>
+    </section>
+    <section>
+        <h2>FORMATION</h2>
+        
+        <div class="exp">
+            <div class="exp-logo">
+                <p>2019-2020</p>  
+            </div>
+            <div class="exp-info">
+                <h3>UNIVERSITE PARIS 1 PANTHEON SORBONNE,France</h3>
+                <h4>Licence 3 MIAGE</h4>
+                
+            </div>
+            
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <p>2014-2017</p>  
+            </div>
+            <div class="exp-info">
+                <h3>UNIVERSITE GASTON BERGER DE SAINT LOUIS,Sénégal</h3>
+                <h4>Licence MASS(Mathématiques Appliquées Aux Sciences Sociales)</h4>
+                
+            </div>
+            
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <p>2013-2014</p>  
+            </div>
+            <div class="exp-info">
+                <h3>LYCEE ELHADJ YERO BASSE,Sénégal</h3>
+                <h4>Baccalauréat série S1,Spécialités Mathématiques et Sciences Physiques</h4>
+                
+            </div>
+            
+        </div>
+    </section>
+    <section>
+    
+        <h2>EXPERIENCES PROFESSIONNELLES</h2>
+        <div class="exp">
+            <div class="exp-logo">
+                <p>2017-2018 <br><span class="durée">(5 mois)</span></p>
+            </div>
+            <div class="exp-info">
+                <h3>ORANGE,Saint Louis,Sénégal</h3>
+                <h4>Employé commercial</h4>
+            </div>
+           
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <p>2016-2017<br><span class="durée">(6 mois)</span></p>
+            </div>
+            <div class="exp-info">
+                <h3>ORANGE,Saint Louis,Sénégal</h3>
+                <h4>Commercial</h4>
+            </div>
+           
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <p>2015-2016<br><span class="durée">(8 mois)</span></p>
+            </div>
+            <div class="exp-info">
+                <h3>GOLOB ONE,Saint Louis,Sénégal</h3>
+                <h4> Vendeuse Boutique Multimédia</h4>
+            </div>
+           
+        </div>
+    </section>
+    
+    <section>
+        
+            <h2>COMPETENCES INFORMATIQUES</h2>
+             <div class="exp">
+                 <div class="exp-logo">
+                <p>Languages: <br><span></span></p>
+                </div>
+                    
+                
+                <div class="exp-info">
+                    <h3>C,JAVA,PASCAL,HTML,CSS</h3>
+                    
+                </div> 
+             </div>
+             <div class="exp">
+                <div class="exp-logo">
+               <p>Logiciels: <br><span></span></p>
+               </div>
+                   
+               
+               <div class="exp-info">
+                   <h3>WIRESHARK</h3>
+                   
+               </div> 
+            </div>
+            <div class="exp">
+                <div class="exp-logo">
+               <p>Ide: <br><span></span></p>
+               </div>
+                   
+               
+               <div class="exp-info">
+                   <h3>ECLIPSE,NETBEANS,POSTGRES-SQL</h3>
+                   
+               </div> 
+            </div>
+            <div class="exp">
+                <div class="exp-logo">
+               <p>Autres Outils: <br><span></span></p>
+               </div>
+                   
+               
+               <div class="exp-info">
+                   <h3> MYSQL,GITHUB,TESTLINK,PACK-OFFICE,PHOTOSHOP</h3>
+                   
+               </div> 
+            </div>
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+        <p>A voir <br> semestre 2: <br><span></span></p>
+           </div>
+               
+           
+           <div class="exp-info">
+               <h3> PHP AVEC SYMPHONY,WEB</h3>
+               
+           </div> 
+        </div>
+ 
+    </section>
+    <section>
+        <h2>LANGUES</h2> 
+        <div class="exp">
+            <div class="exp-logo">
+                <p>Anglais: <br><span></span></p>
+            </div>
+            <div class="exp-info">
+                <h3>Niveau Intermédiare</h3>
+                
+            </div>
+           
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <p>Français: <br><span></span></p>
+            </div>
+            <div class="exp-info">
+                <h3>Trés bon niveau</h3>
+                
+            </div>
+           
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <p>Peul,Wolof: <br><span></span></p>
+            </div>
+            <div class="exp-info">
+                <h3>Bonne connaissance:</h3>
+                
+            </div>
+           
+        </div>
+        
+        
+        </section>
+        <section>
+        <h2>AUTRES EXPERIENCES & CENTRES D'INTERETS</h2>
+        <div class="exp">
+            <div class="exp-logo">
+                <p>2016-2018 <br><span></span></p>
+            </div>
+            <div class="exp-info">
+                <h3>Membre de LT SENEGAL,association nationale de développement pour le leadership et l'entreprenariart des jeunes</span><br></h3>
+                    <h4>Chargés de Relations Extérieures puis Coordinatrice</h4>
+                
+            </div>
+           
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <p>2015-2017<br><span></span></p>
+            </div>
+            <div class="exp-info">
+                <h3>Membre de MAPS,moniteurs d'appui à la promotion de la science</span><br></h3>
+                    <h4>Profésseur Bénévol en Mathématiques au Lycéé fedherbe de Saint Louis</h4>
+                
+            </div>
+           
+        </div>
+        <div class="exp">
+            <div class="exp-logo">
+                <p>Intérets<br><span></span></p>
+            </div>
+            <div class="exp-info">
+                <h3>Recherche Autodidacte sur Grafikart,OpenClassroom...Réseaux Sociaux,Musique,Cuisine</h3>
+                
+            </div>
+           
+        </div>
+    </section>
+    <footer>
+        <p><br>
+
+        </p>
+        <p><br>
+
+
+        </p>
+    </footer>
+   
+</body>
